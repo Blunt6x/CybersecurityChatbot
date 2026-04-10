@@ -17,7 +17,7 @@ namespace CybersecurityChatbot
  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ██████╔╝╚██████╔╝   ██║   
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝  
         ");
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("  ╔══════════════════════════════════════════════════════╗");
             Console.WriteLine("  ║       🛡️  Cybersecurity Awareness Assistant 🛡️        ║");
             Console.WriteLine("  ║         Keeping South African Citizens Safe          ║");

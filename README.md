@@ -1,3 +1,8 @@
+
+# 📸 CI Workflow
+
+![CI Status](https://github.com/Blunt6x/CybersecurityChatbot/blob/master/.github/workflows/dotnet-desktop.yml/badge.svg)
+
 ⚠️ **Note:** The CI workflow encountered a GitHub account-level billing 
 > lock during setup. This is a known GitHub issue affecting some free accounts 
 > on public repositories despite no paid features being used. GitHub Support 

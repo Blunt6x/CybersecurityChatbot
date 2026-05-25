@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CybersecurityChatbot.GUI2/CybersecurityChatbot.GUI2.csproj" Id="eeebd17b-a1ed-4e78-b7f8-7be878ebfd8f" />
   <Project Path="CybersecurityChatbot/CybersecurityChatbot.csproj" />
 </Solution>
